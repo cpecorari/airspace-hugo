@@ -47,7 +47,7 @@ cta:
   content: Nous faisons tout ça pour vous. Et nous le faisons bien.
   button:
     enable: true
-    label: Contactez-nous
+    label: Nous contacter
     link: contact
 funfacts:
   enable: true
