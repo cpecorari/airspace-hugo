@@ -1,6 +1,6 @@
 DefaultContentLanguage = "fr"
 baseURL = "https://dblconseil.netlify.app"
-disableLanguages = ["en"]
+disableLanguages = ["\"en\""]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
