@@ -43,7 +43,7 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: Expertise Gestion<br>Conseil
+  title: Expertise Gestion <br> Conseil
   content: Nous faisons tout ça pour vous. Et nous le faisons bien.
   button:
     enable: true
