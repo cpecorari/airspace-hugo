@@ -1,4 +1,4 @@
-baseURL = "https://dblconseil.netlify.com"
+baseURL = "https://dblconseil.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
