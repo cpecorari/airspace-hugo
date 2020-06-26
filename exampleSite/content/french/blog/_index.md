@@ -1,7 +1,7 @@
 ---
 title: Infos DBL Conseil - Covid 19
 description: COVID19 coronavirus accueil cabinet
-bg_image: "/images/affiche_-_gestes_barrieres.pdf"
+bg_image: "/images/covid19affiche.png"
 date: 2020-06-25T22:00:00+00:00
 author: Emmanuel
 menu:
