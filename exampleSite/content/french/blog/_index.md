@@ -5,9 +5,6 @@ bg_image: "/images/covid19affiche.png"
 date: 2020-06-25T22:00:00+00:00
 author: Emmanuel
 menu:
-  main:
-    name: COVID19
-    weight: 5
   footer:
     name: COVID19
     weight: 4
