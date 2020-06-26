@@ -4,6 +4,10 @@ description: COVID19 coronavirus accueil cabinet
 bg_image: "/images/affiche_-_gestes_barrieres.pdf"
 date: 2020-06-25T22:00:00+00:00
 author: Emmanuel
+menu:
+  footer:
+    name: COVID19
+    weight: 4
 
 ---
 Chers clients,

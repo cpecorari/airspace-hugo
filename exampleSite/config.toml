@@ -21,33 +21,34 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
-[[menu.main]]
+weight = 3
+[[menu.footer]]
+URL = "service"
+name = "Service"
+weight = 2
+[[menu.footer]]
 URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
+weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
+URL = "service"
+name = "Service"
+weight = 4
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 3
 [params]
 author = "Themefisher"
 contact_form_action = "#"
