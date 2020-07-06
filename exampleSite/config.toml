@@ -20,29 +20,33 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 3
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 2
+[menu.footer]
+URL = "about"
+name = "A propos"
+weight = 1
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "about"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "service"
 name = "Service"
-weight = 4
+weight = 3
+[[menu.main]]
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
 description = "Expertise Gestion Audit"
 email = "contact@dblconseil.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Porte Maillot, 75017 Paris"
 logo = "images/DBL.png"
 mobile = "0124857985320"
 multi_author = false
@@ -53,7 +57,7 @@ map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
-enable = true
+enable = false
 label = "Get A Quote"
 link = "contact"
 [[params.plugins.css]]
@@ -82,20 +86,5 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
 link = "#"
