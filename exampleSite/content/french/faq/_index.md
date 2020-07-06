@@ -4,12 +4,6 @@ description: this is meta description
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
 date: '2019-12-23T07:05:29.000+00:00'
 bg_image: images/featue-bg.jpg
-menu:
-  main:
-    URL: faq
-    name: FAQ
-    parent: Pages
-    weight: 2
 
 ---
 ### Welcome to Airspace!

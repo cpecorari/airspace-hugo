@@ -20,26 +20,22 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu.footer]
-URL = "about"
-name = "A propos"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.footer]]
 URL = "service"
 name = "Service"
-weight = 3
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 3
+[[menu.main]]
+URL = "service"
+name = "Service"
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"

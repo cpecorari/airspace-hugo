@@ -5,6 +5,6 @@ bg_image: images/featue-bg.jpg
 menu:
   main:
     name: Actualités
-    weight: 5
+    weight: 2
 
 ---

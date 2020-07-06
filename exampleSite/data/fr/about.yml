@@ -102,7 +102,7 @@ menu:
   main:
     name: A propos
     URL: about
-    weight: "3"
+    weight: "1"
   footer:
     name: About
     URL: about
